@@ -2,8 +2,8 @@
 Contributors: Collizo4sky
 Tags: email, newsletter, Campaign Monitor, email list
 Requires at least: 4.0
-Tested up to: 4.5
-Stable tag: 1.2.1
+Tested up to: 4.7.1
+Stable tag: 1.1
 License: GPL-2.0+
 
 Add registering users to your Campaign Monitor list.
@@ -15,6 +15,10 @@ Campaign Monitor extension for WordPress automatically subscribe users to a spec
 See the extension page for more info http://profilepress.net/downloads/campaignmonitor/
 
 == Changelog ==
+
+= 1.1 =
+* Utilize new profilepress licensing updater
+* Minor bug fixes and code improvements.
 
 = 1.0 =
 * the genesis

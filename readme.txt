@@ -1,5 +1,4 @@
 === ProfilePress - Campaign Monitor Add-on ===
-Contributors: Collizo4sky
 Tags: email, newsletter, Campaign Monitor, email list
 Requires at least: 4.0
 Tested up to: 4.7.1
